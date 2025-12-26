@@ -1,5 +1,5 @@
 {
-    "name": "@custom/stream-proxy",
+    "name": "tizenbrew-proxy",
     "appName": "Stream Proxy",
     "version": "1.0.0",
     "description": "A TizenBrew service module that runs a local HTTP proxy to add custom headers (Referer, Origin) for streaming CDNs like merichunidya.com",
@@ -7,10 +7,11 @@
     "websiteURL": "about:blank",
     "main": "client.js",
     "serviceFile": "service.js",
-    "author": "Custom",
+    "author": "midozalouk",
     "license": "MIT",
     "repository": {
-        "url": "https://github.com/custom/stream-proxy"
+        "type": "git",
+        "url": "https://github.com/midozalouk/tizenbrew-proxy"
     },
     "keywords": [
         "tizenbrew",

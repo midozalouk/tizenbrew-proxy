@@ -1,5 +1,5 @@
 {
-  "name": "stream-proxy",
+  "name": "tizenbrew-proxy",
   "appName": "Stream Proxy",
   "version": "1.1.0",
   "description": "TizenBrew Node.js service that runs a local HTTP proxy with custom headers and AVPlay range support",

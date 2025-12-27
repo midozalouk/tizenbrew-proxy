@@ -1,0 +1,9 @@
+{
+  "id": "tizenbrew-proxy",
+  "name": "Stream Proxy",
+  "type": "service",
+  "version": "1.1.0",
+  "description": "Local Node.js HTTP proxy with custom headers and AVPlay range support",
+  "entry": "service.sh",
+  "author": "midozalouk"
+}
